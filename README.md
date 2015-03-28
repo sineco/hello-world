@@ -1,2 +1,2 @@
 # hello-world
-This is a test repository
+This project prints on the screen the message "hello world!".
