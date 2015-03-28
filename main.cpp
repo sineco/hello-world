@@ -1,6 +1,6 @@
 //
 //  main.cpp
-//  HelloWorldProject
+//  
 //
 //  Created by Rodrigo UWaterloo on 2015-03-28.
 //  Copyright (c) 2015 Rodrigo Araujo. All rights reserved.
